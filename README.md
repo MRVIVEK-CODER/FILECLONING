@@ -10,7 +10,7 @@
 ° cd FILECLONER
 ° pip2 install mechanize && pip2 install requests
 ° pip3 install mechanize && pip3 install requests
-° python2 FileCrack76.Max
+° python2 Vivek67.Max
 ```
 # Script run on linux 
 ```
@@ -19,7 +19,7 @@
 ° sudo pip3 install requests mechanize tqdm
 ° git clone https://github.com/MRVIVEK-CODER/FILECLONER
 ° cd FILECLONER
-° sudo ./FileCrack76.Max
+° sudo ./Vivek67.Max
 ```
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
