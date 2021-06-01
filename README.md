@@ -1,26 +1,20 @@
 # FILECLONING #
 # Script run termux
 ```  
-° pkg update && pkg upgrade
-° pkg install python2 -y
-° pkg install python3 -y
-° pkg install git -y
-° termux-setup-storage
-° git clone https://github.com/MRVIVEK-CODER/FILECLONER
-° cd FILECLONER
-° pip2 install mechanize && pip2 install requests
-° pip3 install mechanize && pip3 install requests
-° python2 Vivek67.Max
+pkg update
+pkg upgrade
+pkg install git
+pkg install python
+pkg install python2 
+pip2 install requests
+pip2 install mechanize
+pip install lolcat
+rm -rf FILECLONING
+git clone https://github.com/MRVIVEK-CODER/FILECLONING.git
+ cd FILECLONING
+python2 Vivek67.max
 ```
-# Script run on linux 
-```
-° sudo apt-get install python2 && git -y
-° sudo apt-get install python-pip
-° sudo pip3 install requests mechanize tqdm
-° git clone https://github.com/MRVIVEK-CODER/FILECLONER
-° cd FILECLONER
-° sudo ./Vivek67.Max
-```
+
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 ## Follows us on social media
